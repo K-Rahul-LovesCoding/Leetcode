@@ -8,4 +8,9 @@
 | [0007-reverse-integer](https://github.com/K-Rahul-LovesCoding/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/K-Rahul-LovesCoding/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0507-perfect-number](https://github.com/K-Rahul-LovesCoding/Leetcode/tree/main/0507-perfect-number/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/K-Rahul-LovesCoding/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/K-Rahul-LovesCoding/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 <!---LeetCode Topics End-->
