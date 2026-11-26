@@ -14,6 +14,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/K-Rahul-LovesCoding/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/K-Rahul-LovesCoding/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/K-Rahul-LovesCoding/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/K-Rahul-LovesCoding/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/K-Rahul-LovesCoding/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -45,6 +46,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/K-Rahul-LovesCoding/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/K-Rahul-LovesCoding/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
