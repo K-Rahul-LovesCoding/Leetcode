@@ -17,6 +17,7 @@
 | [0287-find-the-duplicate-number](https://github.com/K-Rahul-LovesCoding/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/K-Rahul-LovesCoding/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/K-Rahul-LovesCoding/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1929-concatenation-of-array](https://github.com/K-Rahul-LovesCoding/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,4 +46,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/K-Rahul-LovesCoding/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/K-Rahul-LovesCoding/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
